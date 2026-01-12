@@ -1,1 +1,1 @@
-# WIP
+# WUSTACM Profile
