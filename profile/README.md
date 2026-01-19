@@ -7,7 +7,7 @@
 
 ## 我们是谁
 
-武汉科技大学 ACM 俱乐部（WUST ACM Club）是以**程序设计竞赛（Competitive Programming）**为核心的学生技术社团与集训团队，聚焦：
+武汉科技大学 ACM 俱乐部（WUST ACM Club）是以 *程序设计竞赛 (Competitive Programming)* 为核心的学生技术社团与集训团队，聚焦：
 
 - 数据结构与算法训练
 - XCPC（ICPC / CCPC）体系化备赛
